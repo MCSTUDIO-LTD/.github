@@ -1,4 +1,4 @@
-<img src="https://github.com/MCSTUDIO-LTD/.github/blob/main/LOGO-MAIL-PROFILE.gif" width="200" height="100">
+<img src="https://github.com/MCSTUDIO-LTD/.github/blob/main/LOGO-MAIL-PROFILE.gif" width="200" height="200">
 
 MCSTUDIO Ltd
 ===========================================================================================================================================================
